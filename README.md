@@ -1,1 +1,1 @@
-# learn_groovy_the_hard_way
+:octocat: # initial data for working with Groovy Scripting language 

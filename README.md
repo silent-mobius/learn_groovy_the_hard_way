@@ -9,3 +9,4 @@
 - [Digging Deeper](../learn_groovy_the_hard_way/06_diggin_deeper/README.md)
 - [Working With RESTapi](../learn_groovy_the_hard_way/07_working_with_REST_services/README.md)
 - [Working With Databases](../learn_groovy_the_hard_way/08_working_with_databases/README.md)
+- [Exercises](../Exercises/README.md)

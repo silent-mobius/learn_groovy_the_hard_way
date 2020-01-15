@@ -1,5 +1,5 @@
 :octocat:
-# initial data for working with Groovy Scripting language 
+# Learn Groovy The Hard Way
 
 - [Getting Started](../learn_groovy_the_hard_way/01_getting_started/README.md)
 - [Basic Syntax](../learn_groovy_the_hard_way/02_basic_syntax/README.md)
